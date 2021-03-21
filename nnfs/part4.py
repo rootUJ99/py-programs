@@ -11,5 +11,5 @@ class Feed_Forword:
 
 first_object = Feed_Forword(3, 4)
 first_object
-print('first_object.inputs', first_object.inputs)
+print('first_object.inputs', first_object.inputs) 
 print('first_object.bias', first_object.bias)

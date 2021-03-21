@@ -10,7 +10,7 @@ weights = [
 bias = [1, 3, 4]
 
 
-import numpy as np
+import numpy as np 
 
 output = np.dot(np.array(weights).T, inputs) + bias
 
